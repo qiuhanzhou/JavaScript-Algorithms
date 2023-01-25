@@ -58,16 +58,7 @@
 - [华为&leetcode146：设计和实现一个LRU（最近最少使用）缓存机制](https://github.com/sisterAn/JavaScript-Algorithms/issues/7)
 - [阿里算法题：编写一个函数计算多个数组的交集](https://github.com/sisterAn/JavaScript-Algorithms/issues/10)
 
-#### 链表
-- [leetcode21：合并两个有序链表](https://github.com/sisterAn/JavaScript-Algorithms/issues/11)
-- [有赞&leetcode141：判断一个单链表是否有环](https://github.com/sisterAn/JavaScript-Algorithms/issues/13)
-- [图解leetcode206：反转链表](https://github.com/sisterAn/JavaScript-Algorithms/issues/14)
-- [leetcode876：求链表的中间结点](https://github.com/sisterAn/JavaScript-Algorithms/issues/15)
-- [leetcode19：删除链表倒数第 n 个结点](https://github.com/sisterAn/JavaScript-Algorithms/issues/16)
-- [图解字节&leetcode160：编写一个程序，找到两个单链表相交的起始节点](https://github.com/sisterAn/JavaScript-Algorithms/issues/17)
-- [腾讯&leetcode611：有效三角形的个数](https://github.com/sisterAn/JavaScript-Algorithms/issues/93)
-- [快手算法：链表求和](https://github.com/sisterAn/JavaScript-Algorithms/issues/114)
-- [leetcode42：接雨水问题](https://github.com/sisterAn/JavaScript-Algorithms/issues/122)
+
 
 #### 字符串
 - [字节&leetcode151：翻转字符串里的单词](https://github.com/sisterAn/JavaScript-Algorithms/issues/18)
@@ -98,54 +89,6 @@
 - [leetcode380：常数时间插入、删除和获取随机元素](https://github.com/sisterAn/JavaScript-Algorithms/issues/48)
 - [剑指Offer：第一个只出现一次的字符](https://github.com/sisterAn/JavaScript-Algorithms/issues/50)
 
-#### 二叉树
-
-##### 二叉树的遍历
-- [字节&leetcode144：二叉树的前序遍历](https://github.com/sisterAn/JavaScript-Algorithms/issues/37)
-- [字节&leetcode94：二叉树的中序遍历](https://github.com/sisterAn/JavaScript-Algorithms/issues/38)
-- [字节&leetcode145：二叉树的后序遍历](https://github.com/sisterAn/JavaScript-Algorithms/issues/40)
-- [leetcode102：二叉树的层序遍历](https://github.com/sisterAn/JavaScript-Algorithms/issues/47)
-- [字节&leetcode107：二叉树的层次遍历](https://github.com/sisterAn/JavaScript-Algorithms/issues/46)
-
-##### 重构二叉树
-- [leetcode105：从前序与中序遍历序列构造二叉树](https://github.com/sisterAn/JavaScript-Algorithms/issues/41)
-
-##### 二叉树进阶
-- [腾讯&leetcode104：二叉树的最大深度](https://github.com/sisterAn/JavaScript-Algorithms/issues/42)
-- [字节&腾讯leetcode236：二叉树的最近公共祖先](https://github.com/sisterAn/JavaScript-Algorithms/issues/43)
-- [剑指Offer&leetcode110：平衡二叉树](https://github.com/sisterAn/JavaScript-Algorithms/issues/44)
-- [字节&leetcode112：路径总和](https://github.com/sisterAn/JavaScript-Algorithms/issues/45)
-- [剑指Offer&leetcode101：对称二叉树](https://github.com/sisterAn/JavaScript-Algorithms/issues/53)
-- [字节一面：给定一个二叉树, 找到该树中两个指定节点间的最短距离](https://github.com/sisterAn/JavaScript-Algorithms/issues/82)
-- [腾讯&leetcode230：二叉搜索树中第K小的元素](https://github.com/sisterAn/JavaScript-Algorithms/issues/86)
-- [二叉树的左右子树交换](https://github.com/sisterAn/JavaScript-Algorithms/issues/141)
-
-### 堆
-- [腾讯&字节等：最小的k个数](https://github.com/sisterAn/JavaScript-Algorithms/issues/59)
-- [leetcode347：前 K 个高频元素](https://github.com/sisterAn/JavaScript-Algorithms/issues/61)
-- [字节&leetcode215：数组中的第K个最大元素](https://github.com/sisterAn/JavaScript-Algorithms/issues/62)
-- [剑指Offer&leetcode295：数据流的中位数](https://github.com/sisterAn/JavaScript-Algorithms/issues/63)
-
-### 图
-- [leetcode997：找到小镇的法官](https://github.com/sisterAn/JavaScript-Algorithms/issues/65)
-- [leetcode207：课程表问题](https://github.com/sisterAn/JavaScript-Algorithms/issues/66)
-- [剑指Offer&Bigo：旋转矩阵](https://github.com/sisterAn/JavaScript-Algorithms/issues/57)
-- [腾讯&leetcode：螺旋矩阵 II](https://github.com/sisterAn/JavaScript-Algorithms/issues/134)
-- [字节&剑指 Offer 29：顺时针打印矩阵](https://github.com/sisterAn/JavaScript-Algorithms/issues/119)
-
-### 排序算法
-- [腾讯&字节：介绍一下快排原理以及时间复杂度，并实现一个快排](https://github.com/sisterAn/JavaScript-Algorithms/issues/70)
-- [字节&阿里&网易&leetcode384：打乱数组（洗牌算法）](https://github.com/sisterAn/JavaScript-Algorithms/issues/74)
-- [阿里五面：说下希尔排序的过程？ 希尔排序的时间复杂度和空间复杂度又是多少？](https://github.com/sisterAn/JavaScript-Algorithms/issues/75)
-- [腾讯&leetcode148：排序链表](https://github.com/sisterAn/JavaScript-Algorithms/issues/79)
-- [字节算法题：扑克牌问题（反向推导题）](https://github.com/sisterAn/JavaScript-Algorithms/issues/80)
-- [腾讯&leetcode611：有效三角形的个数](https://github.com/sisterAn/JavaScript-Algorithms/issues/93)
-
-### 查找算法
-- [腾讯：简述二分查找算法与时间复杂度，并实现一个二分查找算法](https://github.com/sisterAn/JavaScript-Algorithms/issues/83)
-- [腾讯&字节&leetcode34：在排序数组中查找元素的第一个和最后一个位置](https://github.com/sisterAn/JavaScript-Algorithms/issues/84)
-- [腾讯&leetcode230：二叉搜索树中第K小的元素](https://github.com/sisterAn/JavaScript-Algorithms/issues/86)
-- [腾讯&leetcode875：爱吃香蕉的珂珂](https://github.com/sisterAn/JavaScript-Algorithms/issues/109)
 
 ### 动态规划
 - [字节&leetcode70：爬楼梯问题](https://github.com/sisterAn/JavaScript-Algorithms/issues/90)
@@ -156,12 +99,8 @@
 - [腾讯&leetcode5：最长回文子串](https://github.com/sisterAn/JavaScript-Algorithms/issues/121)
 - [阿里&网易&leetcode64：最小路径和](https://github.com/sisterAn/JavaScript-Algorithms/issues/139)
 
-### 贪心算法
-- [字节&leetcode122：买卖股票的最佳时机 II](https://github.com/sisterAn/JavaScript-Algorithms/issues/97)
-- [字节&leetcode455：分发饼干](https://github.com/sisterAn/JavaScript-Algorithms/issues/115)
-- [腾讯&leetcode659：分割数组为连续子序列](https://github.com/sisterAn/JavaScript-Algorithms/issues/117)
 
-### 回溯算法
+### 回溯算法 ？？
 - [百度&leetcode46：全排列问题](https://github.com/sisterAn/JavaScript-Algorithms/issues/102)
 - [腾讯&leetcode22：括号生成](https://github.com/sisterAn/JavaScript-Algorithms/issues/112)
 
